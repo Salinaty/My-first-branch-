@@ -1,0 +1,4 @@
+dist: focal
+language: python
+script: "travis is cool!"
+install: skip
